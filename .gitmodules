@@ -1,0 +1,174 @@
+[submodule "repos/ansible-docker"]
+	path = repos/ansible-docker
+	url = git@github.com:adrianeortiz/ansible-docker.git
+[submodule "repos/ansible-integration-in-jenkins"]
+	path = repos/ansible-integration-in-jenkins
+	url = git@github.com:adrianeortiz/ansible-integration-in-jenkins.git
+[submodule "repos/ansible-integration-in-terraform"]
+	path = repos/ansible-integration-in-terraform
+	url = git@github.com:adrianeortiz/ansible-integration-in-terraform.git
+[submodule "repos/api-request-to-gitlab"]
+	path = repos/api-request-to-gitlab
+	url = git@github.com:adrianeortiz/api-request-to-gitlab.git
+[submodule "repos/automate-aws-infrastructure"]
+	path = repos/automate-aws-infrastructure
+	url = git@github.com:adrianeortiz/automate-aws-infrastructure.git
+[submodule "repos/automate-configuring-ec2-server-instances"]
+	path = repos/automate-configuring-ec2-server-instances
+	url = git@github.com:adrianeortiz/automate-configuring-ec2-server-instances.git
+[submodule "repos/automate-displaying-eks-cluster-information"]
+	path = repos/automate-displaying-eks-cluster-information
+	url = git@github.com:adrianeortiz/automate-displaying-eks-cluster-information.git
+[submodule "repos/automate-kubernetes-deployment"]
+	path = repos/automate-kubernetes-deployment
+	url = git@github.com:adrianeortiz/automate-kubernetes-deployment.git
+[submodule "repos/automate-nexus-deployment"]
+	path = repos/automate-nexus-deployment
+	url = git@github.com:adrianeortiz/automate-nexus-deployment.git
+[submodule "repos/automate-nodejs-application-deployment"]
+	path = repos/automate-nodejs-application-deployment
+	url = git@github.com:adrianeortiz/automate-nodejs-application-deployment.git
+[submodule "repos/automation-with-python"]
+	path = repos/automation-with-python
+	url = git@github.com:adrianeortiz/automation-with-python.git
+[submodule "repos/cd-deploy-application-from-jenkins-pipeline-on-ec2-instance-automatically-with-docker-compose"]
+	path = repos/cd-deploy-application-from-jenkins-pipeline-on-ec2-instance-automatically-with-docker-compose
+	url = git@github.com:adrianeortiz/cd-deploy-application-from-jenkins-pipeline-on-ec2-instance-automatically-with-docker-compose.git
+[submodule "repos/cd-deploy-application-from-jenkins-pipeline-to-ec2-instance-automatically-with-docker"]
+	path = repos/cd-deploy-application-from-jenkins-pipeline-to-ec2-instance-automatically-with-docker
+	url = git@github.com:adrianeortiz/cd-deploy-application-from-jenkins-pipeline-to-ec2-instance-automatically-with-docker.git
+[submodule "repos/cd-deploy-to-eks-cluster-from-jenkins-pipeline"]
+	path = repos/cd-deploy-to-eks-cluster-from-jenkins-pipeline
+	url = git@github.com:adrianeortiz/cd-deploy-to-eks-cluster-from-jenkins-pipeline.git
+[submodule "repos/cd-deploy-to-lke-cluster-from-jenkins-pipeline"]
+	path = repos/cd-deploy-to-lke-cluster-from-jenkins-pipeline
+	url = git@github.com:adrianeortiz/cd-deploy-to-lke-cluster-from-jenkins-pipeline.git
+[submodule "repos/complete-cicd-pipeline-with-eks-and-aws-ecr"]
+	path = repos/complete-cicd-pipeline-with-eks-and-aws-ecr
+	url = git@github.com:adrianeortiz/complete-cicd-pipeline-with-eks-and-aws-ecr.git
+[submodule "repos/complete-cicd-pipeline-with-eks-and-private-dockerhub-registry"]
+	path = repos/complete-cicd-pipeline-with-eks-and-private-dockerhub-registry
+	url = git@github.com:adrianeortiz/complete-cicd-pipeline-with-eks-and-private-dockerhub-registry.git
+[submodule "repos/complete-cicd-with-terraform"]
+	path = repos/complete-cicd-with-terraform
+	url = git@github.com:adrianeortiz/complete-cicd-with-terraform.git
+[submodule "repos/complete-the-cicd-pipeline-docker-compose-dynamic-versioning"]
+	path = repos/complete-the-cicd-pipeline-docker-compose-dynamic-versioning
+	url = git@github.com:adrianeortiz/complete-the-cicd-pipeline-docker-compose-dynamic-versioning.git
+[submodule "repos/configure-a-shared-remote-state"]
+	path = repos/configure-a-shared-remote-state
+	url = git@github.com:adrianeortiz/configure-a-shared-remote-state.git
+[submodule "repos/configure-alerting-for-our-application"]
+	path = repos/configure-alerting-for-our-application
+	url = git@github.com:adrianeortiz/configure-alerting-for-our-application.git
+[submodule "repos/configure-dynamic-inventory"]
+	path = repos/configure-dynamic-inventory
+	url = git@github.com:adrianeortiz/configure-dynamic-inventory.git
+[submodule "repos/configure-monitoring-for-a-third-party-application"]
+	path = repos/configure-monitoring-for-a-third-party-application
+	url = git@github.com:adrianeortiz/configure-monitoring-for-a-third-party-application.git
+[submodule "repos/configure-monitoring-for-own-application"]
+	path = repos/configure-monitoring-for-own-application
+	url = git@github.com:adrianeortiz/configure-monitoring-for-own-application.git
+[submodule "repos/configure-webhook-to-trigger-ci-pipeline-automatically-on-every-change"]
+	path = repos/configure-webhook-to-trigger-ci-pipeline-automatically-on-every-change
+	url = git@github.com:adrianeortiz/configure-webhook-to-trigger-ci-pipeline-automatically-on-every-change.git
+[submodule "repos/create-a-ci-pipeline-with-jenkinsfile-freestyle-pipeline-multibranch-pipeline"]
+	path = repos/create-a-ci-pipeline-with-jenkinsfile-freestyle-pipeline-multibranch-pipeline
+	url = git@github.com:adrianeortiz/create-a-ci-pipeline-with-jenkinsfile-freestyle-pipeline-multibranch-pipeline.git
+[submodule "repos/create-a-jenkins-shared-library"]
+	path = repos/create-a-jenkins-shared-library
+	url = git@github.com:adrianeortiz/create-a-jenkins-shared-library.git
+[submodule "repos/create-aws-eks-cluster-with-a-node-group"]
+	path = repos/create-aws-eks-cluster-with-a-node-group
+	url = git@github.com:adrianeortiz/create-aws-eks-cluster-with-a-node-group.git
+[submodule "repos/create-docker-repository-on-nexus-and-push-to-it"]
+	path = repos/create-docker-repository-on-nexus-and-push-to-it
+	url = git@github.com:adrianeortiz/create-docker-repository-on-nexus-and-push-to-it.git
+[submodule "repos/create-eks-cluster-with-eksctl"]
+	path = repos/create-eks-cluster-with-eksctl
+	url = git@github.com:adrianeortiz/create-eks-cluster-with-eksctl.git
+[submodule "repos/create-eks-cluster-with-fargate-profile"]
+	path = repos/create-eks-cluster-with-fargate-profile
+	url = git@github.com:adrianeortiz/create-eks-cluster-with-fargate-profile.git
+[submodule "repos/create-helm-chart-for-microservices"]
+	path = repos/create-helm-chart-for-microservices
+	url = git@github.com:adrianeortiz/create-helm-chart-for-microservices.git
+[submodule "repos/create-server-and-deploy-application-on-digitalocean"]
+	path = repos/create-server-and-deploy-application-on-digitalocean
+	url = git@github.com:adrianeortiz/create-server-and-deploy-application-on-digitalocean.git
+[submodule "repos/data-backup-restore"]
+	path = repos/data-backup-restore
+	url = git@github.com:adrianeortiz/data-backup-restore.git
+[submodule "repos/deploy-docker-application-on-a-server-with-docker-compose"]
+	path = repos/deploy-docker-application-on-a-server-with-docker-compose
+	url = git@github.com:adrianeortiz/deploy-docker-application-on-a-server-with-docker-compose.git
+[submodule "repos/deploy-microservices-application-in-kubernetes-with-production-security-best-practices"]
+	path = repos/deploy-microservices-application-in-kubernetes-with-production-security-best-practices
+	url = git@github.com:adrianeortiz/deploy-microservices-application-in-kubernetes-with-production-security-best-practices.git
+[submodule "repos/deploy-microservices-with-helmfile"]
+	path = repos/deploy-microservices-with-helmfile
+	url = git@github.com:adrianeortiz/deploy-microservices-with-helmfile.git
+[submodule "repos/deploy-mongodb-and-mongo-express-into-local-k8s-cluster"]
+	path = repos/deploy-mongodb-and-mongo-express-into-local-k8s-cluster
+	url = git@github.com:adrianeortiz/deploy-mongodb-and-mongo-express-into-local-k8s-cluster.git
+[submodule "repos/deploy-mosquitto-message-broker-with-configmap-and-secret-volume-types"]
+	path = repos/deploy-mosquitto-message-broker-with-configmap-and-secret-volume-types
+	url = git@github.com:adrianeortiz/deploy-mosquitto-message-broker-with-configmap-and-secret-volume-types.git
+[submodule "repos/deploy-nexus-as-docker-container"]
+	path = repos/deploy-nexus-as-docker-container
+	url = git@github.com:adrianeortiz/deploy-nexus-as-docker-container.git
+[submodule "repos/deploy-our-web-application-in-k8s-cluster-from-private-docker-registry"]
+	path = repos/deploy-our-web-application-in-k8s-cluster-from-private-docker-registry
+	url = git@github.com:adrianeortiz/deploy-our-web-application-in-k8s-cluster-from-private-docker-registry.git
+[submodule "repos/deploy-web-application-on-ec2-instance-manually"]
+	path = repos/deploy-web-application-on-ec2-instance-manually
+	url = git@github.com:adrianeortiz/deploy-web-application-on-ec2-instance-manually.git
+[submodule "repos/docker-compose-run-multiple-docker-containers"]
+	path = repos/docker-compose-run-multiple-docker-containers
+	url = git@github.com:adrianeortiz/docker-compose-run-multiple-docker-containers.git
+[submodule "repos/dockerize-nodejs-application-and-push-to-private-docker-registry"]
+	path = repos/dockerize-nodejs-application-and-push-to-private-docker-registry
+	url = git@github.com:adrianeortiz/dockerize-nodejs-application-and-push-to-private-docker-registry.git
+[submodule "repos/dynamically-increment-application-version-in-jenkins-pipeline"]
+	path = repos/dynamically-increment-application-version-in-jenkins-pipeline
+	url = git@github.com:adrianeortiz/dynamically-increment-application-version-in-jenkins-pipeline.git
+[submodule "repos/health-check-ec2-status-checks"]
+	path = repos/health-check-ec2-status-checks
+	url = git@github.com:adrianeortiz/health-check-ec2-status-checks.git
+[submodule "repos/install-a-stateful-service-mongodb-on-kubernetes-using-helm"]
+	path = repos/install-a-stateful-service-mongodb-on-kubernetes-using-helm
+	url = git@github.com:adrianeortiz/install-a-stateful-service-mongodb-on-kubernetes-using-helm.git
+[submodule "repos/install-jenkins-on-digitalocean"]
+	path = repos/install-jenkins-on-digitalocean
+	url = git@github.com:adrianeortiz/install-jenkins-on-digitalocean.git
+[submodule "repos/install-prometheus-stack-in-kubernetes"]
+	path = repos/install-prometheus-stack-in-kubernetes
+	url = git@github.com:adrianeortiz/install-prometheus-stack-in-kubernetes.git
+[submodule "repos/interacting-with-aws-cli"]
+	path = repos/interacting-with-aws-cli
+	url = git@github.com:adrianeortiz/interacting-with-aws-cli.git
+[submodule "repos/modularize-project"]
+	path = repos/modularize-project
+	url = git@github.com:adrianeortiz/modularize-project.git
+[submodule "repos/persist-data-with-docker-volumes"]
+	path = repos/persist-data-with-docker-volumes
+	url = git@github.com:adrianeortiz/persist-data-with-docker-volumes.git
+[submodule "repos/run-nexus-on-droplet-and-publish-artifact-to-nexus"]
+	path = repos/run-nexus-on-droplet-and-publish-artifact-to-nexus
+	url = git@github.com:adrianeortiz/run-nexus-on-droplet-and-publish-artifact-to-nexus.git
+[submodule "repos/structure-playbooks-with-ansible-roles"]
+	path = repos/structure-playbooks-with-ansible-roles
+	url = git@github.com:adrianeortiz/structure-playbooks-with-ansible-roles.git
+[submodule "repos/terraform-aws-eks"]
+	path = repos/terraform-aws-eks
+	url = git@github.com:adrianeortiz/terraform-aws-eks.git
+[submodule "repos/use-docker-for-local-development"]
+	path = repos/use-docker-for-local-development
+	url = git@github.com:adrianeortiz/use-docker-for-local-development.git
+[submodule "repos/website-monitoring-and-recovery"]
+	path = repos/website-monitoring-and-recovery
+	url = git@github.com:adrianeortiz/website-monitoring-and-recovery.git
+[submodule "repos/write-countdown-application"]
+	path = repos/write-countdown-application
+	url = git@github.com:adrianeortiz/write-countdown-application.git
