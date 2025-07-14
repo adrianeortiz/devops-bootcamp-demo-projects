@@ -6,7 +6,6 @@ This repository contains 58 scaffolded demo projects covering various DevOps tec
 
 ### Module 5: Cloud & Infrastructure as Service Basics
 - **create-server-and-deploy-application-on-digitalocean** - Setup and configure a server on DigitalOcean, create Linux user, deploy Java Gradle application
-- **run-nexus-on-droplet-and-publish-artifact-to-nexus** - Install and configure Nexus from scratch, create users with permissions, build and upload JAR files
 
 ### Module 6: Artifact Repository Manager with Nexus
 - **run-nexus-on-droplet-and-publish-artifact-to-nexus** - Install and configure Nexus from scratch, create users with permissions, build and upload JAR files
@@ -89,7 +88,7 @@ This repository contains 58 scaffolded demo projects covering various DevOps tec
 
 ## 🚀 Quick Start
 
-Each repository in the `repos/` folder is a complete, standalone project. To get started:
+Each repository in the `repos/` folder is a complete, standalone project, but are seperated into respective module subfolders. To get started:
 
 1. **Navigate to any repository:**
    ```bash
